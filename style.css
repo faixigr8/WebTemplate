@@ -116,6 +116,7 @@ h4{
 	color:grey;
 	background-color: rgb(20,0,50);
 	padding: 0.4em 0 0.4em 0;
+	text-transform: uppercase;
 }
 
 footer h2{
@@ -183,7 +184,7 @@ footer div{
 h3{
 	width: 100%;
 	border: 2px solid rgb(50,0,0); 
-	padding: 20px;
+	padding: 20px 0 20px 0;
 	text-transform: uppercase;
 }
 
