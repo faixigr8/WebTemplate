@@ -80,20 +80,27 @@ a:hover{
 .container h1{
 	text-align: center;
 	text-decoration: none;
-	color: red;
-	font-size: 4em;
+	color: rgb(90,0,0);
+	font-size: 3em;
+	text-transform: uppercase;
 }
 
 
 /*Gallery CSS*/
 .blue{
-	background: #9bbcff;     
+	background: rgb(40,0,0);    
 }
 
 h2{
 	text-align: center;
 	font-size: 3em;
 	color:grey;
+	background-color: rgb(20,0,70);
+	padding: 0.3em 0 0.3em 0;
+}
+
+footer h2{
+	background-color: rgb(45,0,0);
 }
 
 .top{
@@ -115,7 +122,7 @@ h2{
 
 
 .box{
-    background-color: grey;
+    background-color: rgb(10,0,40);
     padding: 10px;
     margin: 5px;
 }
@@ -140,7 +147,7 @@ img{
 
 strong{
 	font-size: 25px;
-	color: red;
+	color: rgb(90,0,10);
 }
 
 footer{
@@ -150,6 +157,13 @@ footer{
 footer div{
 	display: inline-block;
 	width: 20%;
+	border: 2px solid rgb(50,0,0); 
+}
+
+h3{
+	width: 100%;
+	border: 2px solid rgb(50,0,0); 
+	padding: 20px;
 }
 
 .yellow{
