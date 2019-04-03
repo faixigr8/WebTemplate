@@ -64,10 +64,10 @@ a:hover{
 
 
 
-
 /*Home CSS*/
 .red{
-	background: url(img/car.jpg);
+	background: url(img/car.jpg) no-repeat center center fixed;
+	background-size: cover;
 }
 
 .container{
@@ -75,6 +75,7 @@ a:hover{
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
+	min-width: 10vh;
 }
 
 .container h1{
