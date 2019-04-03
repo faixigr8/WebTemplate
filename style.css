@@ -59,13 +59,14 @@ a:hover{
     font-size: 28px;
 }
 
-.rightPush a{
+#nameTxt{
+	text-align: center;
 	margin-left: 20px;
 	font-size: 30px;
 	color: rgb(150,20,80);
 }
 
-.rightPush a:hover{
+#nameTxt:hover{
 	font-size: 36px;
 	color: rgb(110,20,70);
 }
